@@ -13,6 +13,10 @@ textarea.form-control {
     min-height: calc(1.5em + 7.75rem + 9px);
 }
 
+.btn{
+    color:#35e88;
+}
+
 body {
     font-family: "Open Sans", sans-serif;
     background-color: #040404;
