@@ -9,6 +9,9 @@
 /*--------------------------------------------------------------
 # General
 --------------------------------------------------------------*/
+textarea.form-control {
+    min-height: calc(1.5em + 7.75rem + 9px);
+}
 
 body {
     font-family: "Open Sans", sans-serif;
