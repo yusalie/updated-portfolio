@@ -9,6 +9,18 @@
 /*--------------------------------------------------------------
 # General
 --------------------------------------------------------------*/
+.certificate{
+    width: 100%;
+}
+
+.cert_link:hover{
+    color: blue;
+}
+
+.cert_link{
+    color: bisque;
+}
+
 textarea.form-control {
     min-height: calc(1.5em + 7.75rem + 9px);
 }
