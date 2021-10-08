@@ -778,8 +778,8 @@ section .container {
 }
 
 .services .icon-box:hover {
-    background: crimson;
-    border-color: red;
+    background: light grey;
+    border-color: light grey;
 }
 
 .services .icon-box:hover .icon {
